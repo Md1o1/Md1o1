@@ -1,5 +1,6 @@
 ![Alt Text](https://github.com/Md1o1/Md1o1/blob/main/giphy.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77B1A&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=F77B1A&center=true&vCenter=true&random=false&width=440&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 <h2>:bulb: Languages & Tools i use</h2>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -18,4 +19,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md1o1&theme=merko"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77B1A&random=false&width=435&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1500&color=F77B1A&center=true&vCenter=true&random=false&width=440&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
