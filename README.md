@@ -3,6 +3,7 @@
  <img align="right" width="300" height="250" src="/Coding.gif">
  <p align="left" style="color: #009933; font-size: 15px;">I'm an undergraduate of software engineering, keen on information security. I work with two environments on windows 11 and Fedora OS, i'm using Virtual Studio Code as my primary editor while learning Vim motions to increase my productivity. As my primary tool for daily organization of tasks i use Notion and i intend to direct my projects to be security focused on the future.</p>
 <br />
+<br />
 
 <h2 align="center" style="color: #009933">☎️ Contact Info</h2>
  <p align="center">
