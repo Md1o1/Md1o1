@@ -3,18 +3,20 @@
  <img align="right" width="300" height="250" src="/Coding.gif">
  <p align="left" style="color: #009933; font-size: 15px;">I'm an undergraduate of software engineering, keen on information security. I work with two environments on windows 11 and Fedora OS, i'm using Virtual Studio Code as my primary editor while learning Vim motions to increase my productivity. As my primary tool for daily organization of tasks i use Notion and i intend to direct my projects to be security focused on the future.</p>
 <br />
-<h2 align="center" style="color: #009933">☎️ Contact Info</h2>
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="mailto:MelvinKendes@pm.me">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"alt="mailto:kelvinmendes8@gmail.com">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/kelvin-mendes/">
 
+<h2 align="center" style="color: #009933">☎️ Contact Info</h2>
+ <p align="center">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" href="mailto:MelvinKendes@pm.me">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:kelvinmendes8@gmail.com">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/kelvin-mendes/">
+</p>
 <h3 align="left" style="color: #009933">💻Languages and frameworks i'm currently studying</h3>
   <img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap&theme=dark&perline=6"/>
 
-<h4 align="left" style="color: #009933">🔧Tools i'm using</h4>
+<h3 align="left" style="color: #009933">🔧Tools i'm using</h3>
  <img  src="https://skillicons.dev/icons?i=git,bash,powershell,github,stackoverflow,notion,vim,vscode,codepen,replit,windows,linux&theme=dark&perline=6"/>
     
-<h5 align="left" style="color: #009933">📊 My GitHub Stats</h5>
+<h3 align="left" style="color: #009933">📊 My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md1o1&theme=merko"/>
 
 <div align="center" style="color: #009933">
