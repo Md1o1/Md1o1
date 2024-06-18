@@ -20,10 +20,10 @@
   </a>
 </p>
 <h3 align="left" style="color: #009933">💻Languages and frameworks i'm currently studying</h3>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,bootstrap&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bootstrap&theme=dark&perline=8"/>
 
 <h3 align="left" style="color: #009933">🔧Tools i'm using</h3>
- <img  src="https://skillicons.dev/icons?i=git,bash,powershell,github,stackoverflow,notion,vim,vscode,codepen,replit,windows,linux&theme=dark&perline=6"/>
+ <img  src="https://skillicons.dev/icons?i=git,bash,powershell,vercel,postman,stackoverflow,notion,figma,vim,vscode,codepen,replit,windows,linux,redhat,azure&theme=dark&perline=8"/>
     
 <h3 align="left" style="color: #009933">📊 My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md1o1&theme=merko"/>
