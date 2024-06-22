@@ -26,7 +26,9 @@
  <img  src="https://skillicons.dev/icons?i=git,bash,powershell,vercel,postman,stackoverflow,notion,figma,vim,vscode,codepen,replit,windows,linux,redhat,azure&theme=dark&perline=8"/>
     
 <h3 align="left" style="color: #009933">📊 My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md1o1&theme=merko"/>
+  <p align=center>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md1o1&theme=merko"/></a>&nbsp;&nbsp;
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=merko"/></a>&nbsp;&nbsp;
 
 <div align="center" style="color: #009933">
   <img src="https://komarev.com/ghpvc/?username=Md1o1&color=green&style=flat-square&label=Visits">
