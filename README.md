@@ -28,15 +28,15 @@
 <h3 align="left" style="color: #009933">📊 My GitHub Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=md1o1&theme=gotham&show_icons=true&locale=pt-br" />
-</a>
+</a>&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md1o1&layout=compact&theme=gotham&langs_count=10&locale=pt-br" />
 </a>
-
+<br>
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=gotham">
 </div>
-
+<br>
 <div align="center" style="color: #009933">
   <img src="https://komarev.com/ghpvc/?username=Md1o1&color=green&style=flat-square&label=Visits">
 </div>
