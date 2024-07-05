@@ -24,14 +24,20 @@
 
 <h3 align="left" style="color: #009933">🔧Tools i'm using</h3>
  <img  src="https://skillicons.dev/icons?i=git,bash,powershell,vercel,postman,stackoverflow,notion,figma,vim,vscode,codepen,replit,windows,linux,redhat,azure&theme=dark&perline=8"/>
-    
+
 <h3 align="left" style="color: #009933">📊 My GitHub Stats</h3>
-  <p align=center>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md1o1&theme=merko"/></a>&nbsp;&nbsp;
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=merko"/></a>&nbsp;&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=md1o1&theme=gotham&show_icons=true&locale=pt-br" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md1o1&layout=compact&theme=gotham&langs_count=10&locale=pt-br" />
+</a>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=gotham">
+</div>
 
 <div align="center" style="color: #009933">
   <img src="https://komarev.com/ghpvc/?username=Md1o1&color=green&style=flat-square&label=Visits">
 </div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:33cc33,100:66ffcc&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=65&animation=fadeIn&section=footer&reversal=true)
