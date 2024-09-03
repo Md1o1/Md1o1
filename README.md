@@ -37,7 +37,7 @@
 
 ### 📊 Stats
 ![Profile-summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md1o1&theme=dark)&nbsp;
-![Activity-streak](https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=dark)&nbsp;
+![Activity-streak](https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=dark)&nbsp;&nbsp;&nbsp;
 ![Spotify-api](https://spotify-github-profile.kittinanx.com/api/view?uid=21mjkani2gclcdhnctaawztja&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)&nbsp;
 ![DailyDotDev](https://api.daily.dev/devcards/v2/5MTplZaMATY1e66YxY1NC.png?type=wide&r=z7k)&nbsp;
 </details>
