@@ -2,16 +2,24 @@
 ![Hello](https://readme-typing-svg.demolab.com?font=Honk&size=34&pause=1000&color=009933&background=FFFFFF00&center=true&random=false&width=435&lines=Hello+there!)
 <img align="right" width="300" height="250" src="./Coding.gif">
 <p align="left" style="font-size: 15px">I'm an undergraduate of software engineering at PUC Minas, keen on information security. I'm excited to learn new technologies and warmly invite devs to connect with me.</p> 
-<br><br><br><br>
+<br><br><br><br><br><br>
+
 
 ##
 <div align="center">
 <details open="true">
 <summary>☎️Contact Info</summary>
 
-![mailto:MelvinKendes@pm.me](https://img.shields.io/badge/proton%20mail-0D1117?style=for-the-badge&logo=protonmail&logoColor=white)&nbsp;
-![mailto:kelvinmendes8@gmail.com](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;
-![https://www.linkedin.com/in/kelvin-mendes/](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; 
+<a href="https://mail.proton.me/u/0/inbox#mailto=MelvinKendes@protonmail.co">
+      <img align="center" src="https://img.shields.io/badge/proton%20mail-0D1117?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=kelvinmendes8@gmail.com&su=Ol%C3%A1!&body=Ol%C3%A1%20Kelvin,%20gostaria%20de%20entrar%20em%20contato!&tf=cm">
+      <img align="center" src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/kelvin-mendes/">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=whit" />
+</a>&nbsp;
+
 </details>
 
 ##
