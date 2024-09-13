@@ -10,15 +10,9 @@
 <details open="true">
 <summary>☎️Contact Info</summary>
 
-<a href="https://mail.proton.me/u/0/inbox#mailto=MelvinKendes@protonmail.co">
-      <img align="center" src="https://img.shields.io/badge/proton%20mail-0D1117?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://mail.google.com/mail/u/0/?fs=1&to=kelvinmendes8@gmail.com&su=Ol%C3%A1!&body=Ol%C3%A1%20Kelvin,%20gostaria%20de%20entrar%20em%20contato!&tf=cm">
-      <img align="center" src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/kelvin-mendes/">
-      <img align="center" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=whit" />
-</a>&nbsp;
+[![ProtonMail](https://img.shields.io/badge/proton%20mail-0D1117?style=for-the-badge&logo=protonmail&logoColor=white)](https://mail.proton.me/u/0/inbox#mailto=MelvinKendes@protonmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=kelvinmendes8@gmail.com&su=Ol%C3%A1!&body=Ol%C3%A1%20Kelvin,%20gostaria%20de%20entrar%20em%20contato!&tf=cm)&nbsp;
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/kelvin-mendes/)&nbsp;
 
 </details>
 
