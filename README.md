@@ -34,7 +34,6 @@
 ![Wezterm](https://img.shields.io/badge/wezterm-0D1117?style=for-the-badge)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge)&nbsp;
-![NVim](https://img.shields.io/badge/NeoVim-0D1117?style=for-the-badge)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge)&nbsp;
 
 ### 📊 Stats
