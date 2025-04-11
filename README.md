@@ -42,7 +42,8 @@
 ![Activity-streak](https://github-readme-streak-stats.herokuapp.com/?user=Md1o1&theme=dark) <br>
 
 ![Spotify-api](https://spotify-github-profile.kittinanx.com/api/view?uid=21mjkani2gclcdhnctaawztja&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)&nbsp;
-![DailyDotDev](https://api.daily.dev/devcards/v2/5MTplZaMATY1e66YxY1NC.png?type=wide&r=bah%22%20width=%22652%22%20alt=%22Kelvin%20M.%27s%20Dev%20Card%22)&nbsp;
+![DailyDotDev](https://api.daily.dev/devcards/v2/5MTplZaMATY1e66YxY1NC.png?type=wide&r=cww)&nbsp;
+
 </details>
 
 ![visit-counter](https://komarev.com/ghpvc/?username=Md1o1&color=6aa84f&style=flat-square&label=Visits)</div>
